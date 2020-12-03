@@ -1,2 +1,2 @@
-# 2019_advent_of_code
+# Advent of Code
 Terrible code to solve the advent of code puzzles
